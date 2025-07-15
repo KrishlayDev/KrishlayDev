@@ -38,10 +38,9 @@ I teach, build, fail, and win — all in public — so others can learn and buil
 
 ## 🔧 Currently Building
 
-- 🧠 **Kython AI** – next-gen multi-agent AI (aiming to beat ChatGPT 😉)  
-- 📚 **Student Result Management System (SRMS)** – full-stack analytics tool  
-- 💵 **$7 Python Course** – launching **Jan 7, 2026**  
+- 🧠 **Kython AI** – next-gen multi-agent AI (aiming to beat ChatGPT 😉) 
 - 📈 Tools to **automate, innovate, and accelerate** your journey
+- And many more **cool stuff**, so just check out regularly..
 
 ---
 
