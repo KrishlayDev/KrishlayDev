@@ -1,12 +1,9 @@
 <h1 align="center">Hey, I'm Krishlay (aka <code>KrishlayDev</code>) 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=🎥+YouTuber+%7C+💻+Python+%26+ML+Developer;🚀+Building+in+Public;🧠+Automate.+Innovate.+Create." alt="Typing SVG" />
-</p>
+---
 
 <p align="center">
   <a href="https://instagram.com/krishlaydev"><img src="https://img.shields.io/badge/Instagram-%40krishlaydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://x.com/DevKrishlay"><img src="https://img.shields.io/badge/Twitter-%40DevKrishlay-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:krishlay2026@gmail.com"><img src="https://img.shields.io/badge/Email-krishlay2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://whatsapp.com/channel/0029Vb5mRhe8kyyD5NvXdu3E"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
@@ -86,11 +83,6 @@ I teach, build, fail, and win — all in public — so others can learn and buil
 Thanks for stopping by.  
 📌 **Star a repo**. 🍴 Fork it. 💬 DM me.  
 Let’s **build something legendary together.**
-
----
-
-<h3 align="center">Let’s get in Google 😎</h3>
-<h4 align="center">#TeamKrishlay #BuildWithMe #OpenSourceWarrior</h4>
 
 ---
 
