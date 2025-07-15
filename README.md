@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Krishlay (aka <code>KrishlayDev</code>) 👋</h1>
+<h1 align="center">Hey, I'm Krishlay (aka <code>Krishlay Developer</code>) 👋</h1>
 
 ---
 
