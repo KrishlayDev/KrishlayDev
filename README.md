@@ -3,6 +3,10 @@
 ---
 
 <p align="center">
+  <a href="https://youtube.com/@DevKrishlay" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%40KrishlayDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
   <a href="https://instagram.com/krishlaydev"><img src="https://img.shields.io/badge/Instagram-%40krishlaydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:krishlay2026@gmail.com"><img src="https://img.shields.io/badge/Email-krishlay2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://whatsapp.com/channel/0029Vb5mRhe8kyyD5NvXdu3E"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
