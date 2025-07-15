@@ -117,5 +117,5 @@ Let’s **build something legendary together.**
 
 </p>
 
-<h4>**✨🔥🙌📂🎯 Thank you GitHub for showcasing my journey! 🚀💻❤️🌍📈**</h4>
+<h2 style='color:green;'><center>**✨🔥🙌📂🎯 Thank you GitHub for showcasing my journey! 🚀💻❤️🌍📈**</center></h2>
 
