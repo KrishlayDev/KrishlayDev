@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/YouTube-%40KrishlayDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
-  <a href="instagram.com/krishlaydev"><img src="https://img.shields.io/badge/Instagram-%40krishlaydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/krishlaydev"><img src="https://img.shields.io/badge/Instagram-%40krishlaydev-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:krishlay2026@gmail.com"><img src="https://img.shields.io/badge/Email-krishlay2026%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://whatsapp.com/channel/0029Vb5mRhe8kyyD5NvXdu3E"><img src="https://img.shields.io/badge/WhatsApp-Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
@@ -61,7 +61,7 @@ I teach, build, fail, and win — all in public — so others can learn and buil
 
 - 🎥 YouTuber @ [KrishlayDev](https://youtube.com/@DevKrishlay)
 - 📬 Email: [krishlay2026@gmail.com](mailto:krishlay2026@gmail.com)  
-- 🧠 Instagram: [@krishlaydev](instagram.com/krishlaydev)
+- 🧠 Instagram: [@krishlaydev](https://instagram.com/krishlaydev)
 - 📲 WhatsApp Channel: [Join Here](https://whatsapp.com/channel/0029Vb5mRhe8kyyD5NvXdu3E)  
 - 🔗 GitHub: [github.com/KrishlayDev](https://github.com/KrishlayDev)
 
@@ -99,7 +99,7 @@ Let’s **build something legendary together.**
     <img src="https://img.shields.io/badge/-Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   
-  <a href="instagram.com/krishlaydev" target="_blank">
+  <a href="https://instagram.com/krishlaydev" target="_blank">
     <img src="https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   
@@ -110,7 +110,12 @@ Let’s **build something legendary together.**
   <a href="https://whatsapp.com/channel/0029Vb5mRhe8kyyD5NvXdu3E" target="_blank">
     <img src="https://img.shields.io/badge/-Join%20My%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+
+  <a href="https://www.chess.com/member/ExpertKrish" target="_blank">
+  <img src="https://img.shields.io/badge/-Chess.com%20Profile-3C8039?style=for-the-badge&logo=chess-dot-com&logoColor=white" />
+</a>
+
 </p>
 
-
+<h4>**✨🔥🙌📂🎯 Thank you GitHub for showcasing my journey! 🚀💻❤️🌍📈**</h4>
 
