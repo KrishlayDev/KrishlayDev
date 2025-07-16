@@ -1,7 +1,7 @@
 # 🚀 Welcome to @DevKrishlay - Your Coding Journey Starts Here! 💻
 
 <div align="center">
-  <img src="https://postimg.cc/SXLVrD1k/f3d021eb" width="300" style="border-radius: 50%; box-shadow: 0 0 20px rgba(0, 255, 65, 0.6);"/>
+  <img src="https://postimg.cc/SXLVrD1k/f3d021eb" width="300"/>
   
   <h2 style="color: #00ff41; font-weight: bold; margin-top: 20px;">
     Hey, I'm Krishlay (aka <code>Krishlay Developer</code>) 👋
