@@ -1,7 +1,7 @@
 # 🚀 Welcome to @DevKrishlay - Your Coding Journey Starts Here! 💻
 
 <div align="center">
-  <img src="https://postimg.cc/SXLVrD1k/f3d021eb" width="300"/>
+  <img src="file_00000000d24c61f8870466bcb8d119d0.png" width="300"/>
   
   <h2 style="color: #00ff41; font-weight: bold; margin-top: 20px;">
     Hey, I'm Krishlay (aka <code>Krishlay Developer</code>) 👋
