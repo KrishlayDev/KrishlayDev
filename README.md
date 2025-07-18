@@ -6,7 +6,8 @@
   <h2 style="color: #00ff41; font-weight: bold; margin-top: 20px;">
     Hey, I'm Krishlay (aka <code>Krishlay Developer</code>) 👋
   </h2>
-  
+<h3>Check out my Website:<br>
+<a href="https://krishlaydev.github.io/Krish/">https://krishlaydev.github.io/Krish/</a> </h3>
   <p style="font-size: 18px; color: #e0e0e0; margin: 20px 0;">
     🐍 <strong>Pythonic Mind</strong> | 🤖 <strong>AI Enthusiast</strong> | 🎥 <strong>Content Creator</strong> | 🌍 <strong>Building for the World</strong>
   </p>
